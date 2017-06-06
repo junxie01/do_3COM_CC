@@ -1,4 +1,4 @@
-! introduce globe_data
+! 2017/06/05--introduce globe_data
 ! caution, this program may need some changes
 subroutine rot9com(sachead1,sachead2)
 use sacio
