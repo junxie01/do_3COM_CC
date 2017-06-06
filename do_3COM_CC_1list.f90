@@ -1,4 +1,4 @@
-! 2017/06/05 
+! 2017/06/05 －－ introduce globe_data
 ! do CC with one station list
 program do_3COM_CC
 use sacio
