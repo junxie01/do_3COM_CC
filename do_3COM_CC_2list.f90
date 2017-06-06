@@ -1,6 +1,6 @@
 program do_3COM_CC
 ! junxie
-! 2017/06/04 
+! 2017/06/05 --introduce globe_data
 ! do cc between two list
 use sacio
 use globe_data
