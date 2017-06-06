@@ -3,6 +3,6 @@
 # it can deal with 1 or 2 components too.
 # when it is two components, it has to be component N and E
 # This program can compute according to 1 station list or 2
-# by the way, this the sac file is from preparation
+# by the way, the sac file is from preparation
 # any comment are really appreciated
 # please contact junxie01@gmail.com
